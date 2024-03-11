@@ -10,6 +10,9 @@ Make it so I can use larger files, probably will use pinecone for vectorstores. 
 ## Example
 ![image](https://github.com/SabienNguyen/pdf-gpt/assets/32147674/5362a6b4-8049-4d17-aad8-5bad0fb382fb)
 ## Use
+Add .env file with openai api keys
+```ex: OPENAI_API_KEY="XXXXXXXXXXXXXXXXX"```
+
 ```
 python pdf_gpt.py
 ```
