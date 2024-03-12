@@ -14,6 +14,10 @@ Add .env file with openai api keys
 ```ex: OPENAI_API_KEY="XXXXXXXXXXXXXXXXX"```
 
 ```
+requires {
+  python 3.11.2
+  pip install requirements.txt
+}
 python pdf_gpt.py
 ```
 
